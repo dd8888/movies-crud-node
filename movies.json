@@ -1,0 +1,5 @@
+[
+  { "nombre": "Titanic", "año": "1998", "likes": 2 },
+  { "nombre": "Tenet", "año": "2020", "likes": 5 },
+  { "nombre": "Alguna", "año": "2009", "likes": 3 }
+]
